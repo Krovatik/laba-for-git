@@ -10,4 +10,4 @@ layout: default
 - email: mr.roma.jukov@mail.ru
 - telegram: @krovatik
 
-![](./img/photo_2026-09-20_23-31-42.jpg)
+![...](./img/photo_2026-09-20_23-31-42.jpg)
